@@ -1,0 +1,70 @@
+.container {
+    width: 1170px;
+}
+.navbar-text-1{
+    font-size: 1.3em;
+}
+.card-title {
+    font-size: 3.5em;
+}
+
+.card-text {
+    font-size: 1.2em;
+}
+
+.card-font-color-1 {
+    font-size: 1.5em;
+    font-weight: 400;
+}
+
+.card-font-color-2 {
+    font-size: 1.5em;
+    font-weight: 400;
+}
+
+.card-font-color-3 {
+    color: #ffff;
+    font-size: 1.5em;
+    font-weight: 400;
+}
+
+.btn-1 {
+    font-size: 2.2em;
+    font-weight: 400;
+}
+
+
+.example-text{
+    color: #6c757d;
+}
+.example-text-1 p{
+    color: #6c757d;
+}
+.thumbnail{
+    margin-bottom: 1em;
+}
+.btn-class{
+    margin-left: 1em;
+}
+.thumbnail-time{
+    margin-right: 1.5em;
+    margin-top: 5px;
+}
+.thumb-heading-text{
+    font-size: 2.1em;
+}
+.thumb-info-text {
+    font-size: 1em;
+}
+
+
+.card-body .rounded-circle{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.border-end{
+    color: #6c757d;
+    width: 100px;
+}
